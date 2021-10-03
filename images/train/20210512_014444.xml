@@ -1,0 +1,25 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20210512_014444.jpg</filename>
+	<path>/train/20210512_014444.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>clip</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>38</ymin>
+			<xmax>456</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

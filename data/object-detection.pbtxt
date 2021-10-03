@@ -1,13 +1,8 @@
 # LABEL file 
-# Last modified by ThundluckS on 13 Dec'19
-# revise name for labels : 'totoro' && 'nekobus'
+# Last modified by trangml for VT CPES
+# revise name for labels : j
 
 item {
     id: 1
-    name:'totoro'
-}
-
-item {
-    id: 2
-    name: 'nekobus'
+    name:'inverter'
 }

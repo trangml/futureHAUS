@@ -1,0 +1,26 @@
+<annotation>
+	<folder>components</folder>
+	<filename>20210930_151135.jpg</filename>
+	<path>/home/mattluutrang/Documents/vt/futurehaus/components/20210930_151135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>charge_controller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>27</ymin>
+			<xmax>421</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>

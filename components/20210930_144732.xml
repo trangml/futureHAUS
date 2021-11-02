@@ -1,0 +1,26 @@
+<annotation>
+	<folder>components</folder>
+	<filename>20210930_144732.jpg</filename>
+	<path>/home/mattluutrang/Documents/vt/futurehaus/components/20210930_144732.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>battery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>20</ymin>
+			<xmax>502</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

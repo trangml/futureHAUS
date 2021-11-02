@@ -23,7 +23,9 @@ class TFRecord:
 
     def init_names(self, labelmap) -> dict:
         items = labelmap.split('item')[1:]
-        items_dict = {"inverter":1}
+        items_dict = {"inverter":1,
+                      "charge_controller": 2,
+                      "battery": 3}
         return items_dict
 
     def class_text_to_int(self, row_label) -> int:

@@ -1,4 +1,12 @@
 item {
 	name: "inverter"
 	id: 1
+},
+item {
+	name: "charge_controller"
+	id: 2
+},
+item {
+	name: "battery"
+	id: 3
 }

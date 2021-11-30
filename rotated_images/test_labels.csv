@@ -1,0 +1,16 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+20210930_151210.jpg,640,640,charge_controller,122,19,237,321
+20210930_151210.jpg,640,640,inverter,284,29,441,424
+20210930_151210.jpg,640,640,battery,310,471,425,619
+20210930_151213.jpg,640,640,battery,263,300,457,504
+image1.jpg,4032,3024,inverter,184,793,3471,2012
+image2.jpg,4032,3024,inverter,68,1009,3503,2274
+image3.jpg,4032,3024,inverter,118,924,3909,2418
+image3.jpg,4032,3024,charge_controller,1590,24,3581,915
+image4.jpg,4032,3024,inverter,40,946,3893,2443
+image4.jpg,4032,3024,charge_controller,1596,106,3550,946
+image5.jpg,4032,3024,inverter,84,834,3931,2468
+image5.jpg,4032,3024,charge_controller,1709,81,3806,884
+image6.jpg,640,640,charge_controller,148,28,259,325
+image6.jpg,640,640,inverter,306,40,462,429
+image6.jpg,640,640,battery,319,478,445,619

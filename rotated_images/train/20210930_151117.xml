@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bad-images</folder>
+	<filename>20210930_151117.jpg</filename>
+	<path>C:\Users\fluff\Desktop\FutureHAUS-Obj-Detection\images\train\bad-images\20210930_151117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>charge_controller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>19</ymin>
+			<xmax>329</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>

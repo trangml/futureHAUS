@@ -31,6 +31,10 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
     if row_label == 'inverter':
         return 1
+    elif row_label == 'charge_controller':
+        return 2
+    elif row_label == 'battery':
+        return 3
     else:
         None
 
